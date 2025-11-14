@@ -1,0 +1,11 @@
+{
+  "host": "ftp.example.com",
+  "port": 21,
+  "folder": "my-folder/data",
+  "username": "test-user",
+  "password": "strong-password",
+  "fileUrls": [
+    "https://example.com/file-1.pdf",
+    "https://example.com/file-2.pdf"
+  ]
+}
